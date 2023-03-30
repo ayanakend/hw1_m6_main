@@ -13,8 +13,7 @@
         android:layout_height="100dp"
         android:hint="@string/secondActivity"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
+        app:layout_constraintTop_toTopOf="parent" />
     <Button
         android:id="@+id/btn_ToMainActivity"
         android:layout_width="300dp"
