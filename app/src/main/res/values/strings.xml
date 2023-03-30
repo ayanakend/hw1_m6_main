@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw1_m6_main</string>
+    <string name="addText">add text</string>
+    <string name="btn_next">next</string>
+    <string name="if_empty">Can not be empty!</string>
+    <string name="firstActivity">first activity</string>
+    <string name="secondActivity">second activity</string>
+</resources>
